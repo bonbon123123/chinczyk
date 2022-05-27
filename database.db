@@ -1,0 +1,2 @@
+{"room":0,"playerID":0,"playerName":"bonbon","colour":"red","isReady":"too late","pawns":[20,24,"start","start"],"pawnDistance":[0,4,0,0],"endGoal":[0,0,0,0],"gameStarted":true,"myMove":false,"iMoved":false,"iWon":false,"autoload":true,"_id":"XjuAdnNvmv4rQ8Cd"}
+{"room":0,"playerID":1,"playerName":"hola","colour":"green","isReady":"too late","pawns":[13,"start","start","start"],"pawnDistance":[13,0,0,0],"endGoal":[0,0,0,0],"gameStarted":true,"myMove":true,"iMoved":false,"iWon":false,"autoload":true,"_id":"i9YeMAgcg8pkcPwI"}

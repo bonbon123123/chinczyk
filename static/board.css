@@ -1,0 +1,132 @@
+
+#players{
+    position: absolute;
+    left:0px;
+    top: 0px;
+    width: 100%;
+    height: 10%;
+    background-color: magenta;
+}
+#timer{
+    position: absolute;
+    left:40%;
+    bottom: 10%;
+    width: 100px;
+    height: 100px;
+    background-color: cornsilk;
+    background-size: 98% 98%;
+    font-size: 90px;
+}
+#readyButton{
+    position: absolute;
+    left:20%;
+    bottom: 10%;
+    width: 100px;
+    height: 100px;
+    background-color: darkgray;
+    background-size: 98% 98%;
+}
+#dice{
+    position: absolute;
+    left:60%;
+    bottom: 10%;
+    width: 100px;
+    height: 100px;
+    background-image:url(4.png);
+    background-size: 98% 98%;
+}
+#overBoard{
+    position: absolute;
+    left:10%;
+    top: 10%;
+    width:550px;
+    height:550px;
+    /*background-color: rgb(51, 0, 255);*/
+}
+#red{
+    position: absolute;
+    left:10%;
+    top: 10%;
+    width:550px;
+    height:550px;
+    background-image:url(plansza.png);
+    background-size: 100% 100%;
+    transform: rotate(180deg);
+}
+#blue{
+        position: absolute;
+    left:10%;
+    top: 10%;
+    width:550px;
+    height:550px;
+    background-image:url(plansza.png);
+    background-size: 100% 100%;
+    transform: rotate(90deg);
+}
+#green{
+        position: absolute;
+    left:10%;
+    top: 10%;
+    width:550px;
+    height:550px;
+    background-image:url(plansza.png);
+    background-size: 100% 100%;
+    transform: rotate(0deg);
+}
+#yellow{
+        position: absolute;
+    left:10%;
+    top: 10%;
+    width:550px;
+    height:550px;
+    background-image:url(plansza.png);
+    background-size: 100% 100%;
+    transform: rotate(270deg);
+}
+#pawn{
+    position: absolute;
+    left:200px;
+    top: 350px;
+    width: 45px;
+    height:45px;
+    background-color:darkmagenta;
+    border: 2.5px solid rgb(0, 0, 0);   
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+
+}
+.pawn{
+    position: absolute;
+    width: 45px;
+    height:45px;
+    
+    border: 2.5px solid rgb(0, 0, 0);   
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+}
+.player{
+    position: absolute;
+    top: 0;
+    width: 25%;
+    height: 100%;
+}
+.name{
+    position: absolute;
+    left:5%;
+    top: 5%;
+    width: 40%;
+    height: 80%;
+    background-color: black;
+    color:blanchedalmond;
+}
+.ready{
+    position: absolute;
+    left:55%;
+    top: 5%;
+    width: 40%;
+    height: 80%;
+    background-color: black;
+    color:blanchedalmond;
+}
