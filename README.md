@@ -1,14 +1,7 @@
 # chinczyk
-wieloosobowa gra w chińczyka
+Multiplayer Ludo Game
 
-<image src="/images/ch_1.PNG">
-  
-  
-
-<image src="/images/ch_2.PNG">
-  
-  
-
+Chose nick at first
 <image src="/images/ch_3.PNG">
   
   
@@ -22,4 +15,7 @@ wieloosobowa gra w chińczyka
   
 
 <image src="/images/ch_6.PNG">
+  
+
+<image src="/images/ch_7.PNG">
   
